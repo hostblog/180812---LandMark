@@ -1,0 +1,19 @@
+/* 
+Theme Name: Wordpress-Starter-Theme
+Theme URI: http://timeuniversal.vn
+Author: Time Universal
+Author URI: http://blog.timeuniversal.vn
+Description: Designed by Time Universal Communications
+Version: 0.0.1
+*/
+
+@import "fonts.css";
+@import "addons.css";
+@import "bootstrap.min.css";
+@import "swiper.min.css";
+@import "font-awesome.min.css";
+@import "animate.min.css";
+@import "helpers.css";
+@import "main.css";
+@import "responsive.css";
+@import "thanh.css";

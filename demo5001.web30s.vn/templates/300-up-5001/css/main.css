@@ -1,0 +1,8 @@
+/* Global Reset */
+html, body {font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 14px; color: #000;}
+a {text-decoration: none; color: inherit; font-size: inherit;}
+li{list-style-position: inside;}
+img{-webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; border: 0; line-height: 1;}
+
+
+
